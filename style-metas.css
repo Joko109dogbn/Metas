@@ -71,7 +71,7 @@ body {
     }
 
     @media screen and (min-width: 768px) 
-    .botao {
+    botao {
             display: flex;
         }
 
